@@ -141,3 +141,4 @@ if startAnalysis:
     # display plot
     st.pyplot(fig)
 '''
+    print('Klaar')
