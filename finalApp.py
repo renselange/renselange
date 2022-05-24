@@ -142,3 +142,5 @@ if startAnalysis:
     st.pyplot(fig)
 '''
     st.text('Zijn we nu klaar')
+    
+    'The end, Joop'
