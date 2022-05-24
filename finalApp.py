@@ -12,7 +12,7 @@ import streamlit as st
 import pandas
 from sklearn.linear_model import LinearRegression
 import numpy
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from pandas.plotting import scatter_matrix
 
 # title
@@ -122,7 +122,7 @@ if startAnalysis:
     # user message
     st.info("Here you can see your data (blue), the model (red) and the prediction (yellow)")
 
-    #create figure
+    '''#create figure
     fig, ax = plt.subplots()
 
     # add lables to plots
@@ -140,3 +140,4 @@ if startAnalysis:
 
     # display plot
     st.pyplot(fig)
+'''
