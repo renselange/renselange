@@ -141,4 +141,4 @@ if startAnalysis:
     # display plot
     st.pyplot(fig)
 '''
-    print('Zijn we nu klaar')
+    st.text('Zijn we nu klaar')
